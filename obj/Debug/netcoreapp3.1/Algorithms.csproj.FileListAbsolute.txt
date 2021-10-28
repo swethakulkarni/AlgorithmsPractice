@@ -1,0 +1,11 @@
+C:\SELF-PREP\LeetCode\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.exe
+C:\SELF-PREP\LeetCode\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.deps.json
+C:\SELF-PREP\LeetCode\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.json
+C:\SELF-PREP\LeetCode\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.dev.json
+C:\SELF-PREP\LeetCode\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.dll
+C:\SELF-PREP\LeetCode\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.pdb
+C:\SELF-PREP\LeetCode\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csprojAssemblyReference.cache
+C:\SELF-PREP\LeetCode\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfoInputs.cache
+C:\SELF-PREP\LeetCode\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfo.cs
+C:\SELF-PREP\LeetCode\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.dll
+C:\SELF-PREP\LeetCode\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.pdb
